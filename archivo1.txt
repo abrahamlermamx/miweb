@@ -2,4 +2,4 @@ Primer proyecto en Git
 Chinito Feliz
 Y encantador
 Chinito Feliz
-Chinito Feliz
+Chinito Felix   
